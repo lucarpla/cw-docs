@@ -91,7 +91,7 @@ Before you start, ensure you have:
    (We recommend printing both short and long orders to ensure that there is nothing being cut out vertically.)
 3. If you enabled **auto-printing**, place a test order to ensure automatic printing is enabled.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 ***
 

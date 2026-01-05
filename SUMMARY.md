@@ -36,6 +36,7 @@
   * [Examples of Dates & Times and their corresponding formats](how-to-guides/examples-of-dates-and-times-and-their-corresponding-formats.md)
   * [Export/Import Menu Feature](how-to-guides/export-import-menu-feature.md)
   * [Export Table Booking Data](how-to-guides/export-table-booking-data.md)
+  * [How to add Cloudwaitress to your Google Business Profile](how-to-guides/how-to-add-cloudwaitress-to-your-google-business-profile.md)
   * [Hide Store Header Section (image)](how-to-guides/hide-store-header-section-image.md)
   * [How To Add Driver Tracking](how-to-guides/shipday-integration.md)
   * [How To Add SEO (Search Engine Optimization)](how-to-guides/how-to-add-seo-search-engine-optimization.md)

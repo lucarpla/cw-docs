@@ -8,7 +8,7 @@ description: >-
 
 
 
-![Example of the feature when activated](<../../.gitbook/assets/image (1) (1) (1).png>)
+![Example of the feature when activated](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 To enable this feature, please activate the '_Service Pop-up required_'' button under;
 
