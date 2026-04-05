@@ -35,5 +35,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Create account at CloudWaitress.com](https://www.cloudwaitress.com/signup/)
+[Create account at Rakoon.com](https://www.Rakoon.com/signup/)
 {% endhint %}

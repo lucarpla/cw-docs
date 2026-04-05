@@ -1,8 +1,8 @@
 ---
-description: Enhance Customer Loyalty with Cloudwaitress and Walletly
+description: Enhance Customer Loyalty with Rakoon and Walletly
 ---
 
-# Cloudwaitress and Walletly
+# Rakoon and Walletly
 
 ## <mark style="color:red;">Step 01: Online Order</mark>&#x20;
 
@@ -52,7 +52,7 @@ Once you have successfully logged in to your Walletly account and ensured that t
 
 ## <mark style="color:red;">Step 06: Verify Points in Cloud Waitress</mark>
 
-After your transaction has been completed and your payment has been processed, you can verify the points earned in CloudWaitress (CW). There are two ways to do this:
+After your transaction has been completed and your payment has been processed, you can verify the points earned in Rakoon (CW). There are two ways to do this:
 
 ### Option 1: Log in to Widget
 

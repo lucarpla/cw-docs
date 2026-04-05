@@ -6,7 +6,7 @@ description: >-
 
 # Printing - API Key
 
-1\. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings>System>Receipt Printing>Create Printer.
+1\. Login to your Rakoon account at [admin.Rakoon.com](https://admin.Rakoon.com/login?redirect=%2F) and go to Settings>System>Receipt Printing>Create Printer.
 
 ![](../../.gitbook/assets/1-create-printer.png)
 

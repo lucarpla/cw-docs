@@ -6,7 +6,7 @@ The Online Payment Tab allows you to efficiently manage and track all order paym
 
 ### To view Online Payment Tab
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.Rakoon.com/login](https://admin.Rakoon.com/login)
 2. Select the **Online Payment Tab** icon.&#x20;
 
 <figure><img src="../.gitbook/assets/unknown (27) (1).png" alt=""><figcaption></figcaption></figure>
@@ -63,5 +63,5 @@ To quickly find specific payments, you can use the **Filters** option:
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

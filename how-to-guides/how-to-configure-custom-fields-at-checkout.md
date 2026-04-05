@@ -8,7 +8,7 @@ description: >-
 
 ### Steps
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.Rakoon.com.
 2.  From the list of accounts, find the account where you want to add a custom checkout field and click “**Manage**”.
 
     ![](<../.gitbook/assets/unknown (1).png>)
@@ -43,5 +43,6 @@ description: >-
     ![](<../.gitbook/assets/unknown (8).png>)
 
     * **Required**: Enable this if customers must complete this field before submitting their order.
-8. Once all details are completed, click “**Update**.”   \
+8. Once all details are completed, click “**Update**.”
+   \
    **Note**: You can create up to two custom **checkout fields** per order.

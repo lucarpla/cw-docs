@@ -19,7 +19,7 @@ description: >-
 
 #### Checking Printer Status (Online Dashboard)
 
-1. Log in as admin at admin.cloudwaitress.com.
+1. Log in as admin at admin.Rakoon.com.
 2.  Locate the account you want to check and click "**Manage**".
 
     ![](<../.gitbook/assets/unknown (39).png>)
@@ -51,7 +51,8 @@ description: >-
 **Fixing the Printer Connection**
 
 1. Remove or Reconfigure the Disconnected Printer.
-   1.  **To remove the printer**:       \
+   1.  **To remove the printer**:
+       \
        Click the printer → Remove Printer
 
        ![](<../.gitbook/assets/unknown (44).png>)
@@ -63,5 +64,5 @@ description: >-
 2. Reinstall the Printer
    * If the printer still does not work after reconfiguring, reinstall it.
    * For detailed installation steps, follow the appropriate printer installation guides provided in the links.
-
+Rakoon
 {% embed url="https://support.cloudwaitress.com/getting-started/hardware-requirements-1#printers" %}

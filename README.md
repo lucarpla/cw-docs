@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the CloudWaitress Knowledge Base! Here, you'll find comprehensive
+  Welcome to the Rakoon Knowledge Base! Here, you'll find comprehensive
   articles to help you set up and master our platform, whether you're just
   starting or looking to optimise your operations.
 ---
@@ -31,14 +31,14 @@ In-depth details about our platform's capabilities and configurations.
 
 ### **Featured Articles:**
 
-* [Setting Up Online Payments](https://support.cloudwaitress.com/online-payments): Learn how to integrate and manage payment options.
-* [Customizing Your Store](https://support.cloudwaitress.com/customize-store): Tips and tricks to personalize your online store for a better customer experience.
-* [Order Management](https://support.cloudwaitress.com/order-management): Efficiently handle and track orders to ensure customer satisfaction.
+* [Setting Up Online Payments](https://support.Rakoon.com/online-payments): Learn how to integrate and manage payment options.
+* [Customizing Your Store](https://support.Rakoon.com/customize-store): Tips and tricks to personalize your online store for a better customer experience.
+* [Order Management](https://support.Rakoon.com/order-management): Efficiently handle and track orders to ensure customer satisfaction.
 
-For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://support.Rakoon.com/contact).
 
 ***
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Go back to Rakoon.com](https://www.Rakoon.com)
 {% endhint %}

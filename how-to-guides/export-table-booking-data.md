@@ -9,7 +9,7 @@ description: >-
 
 ### Steps:
 
-1. Login to [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Login to [https://admin.Rakoon.com/login](https://admin.Rakoon.com/login)
 2. Go to **Bookings** tab
 
 <figure><img src="../.gitbook/assets/unknown (12) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -25,5 +25,5 @@ description: >-
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

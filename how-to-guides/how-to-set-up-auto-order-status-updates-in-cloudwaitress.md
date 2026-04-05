@@ -4,11 +4,11 @@ description: >-
   based on preset wait times.
 ---
 
-# How to Set Up Auto Order Status Updates in Cloudwaitress
+# How to Set Up Auto Order Status Updates in Rakoon
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.Rakoon.com.
 2.  From the list of accounts, find the account you want to configure and click “**Manage**”.
 
     ![](<../.gitbook/assets/unknown (27).png>)

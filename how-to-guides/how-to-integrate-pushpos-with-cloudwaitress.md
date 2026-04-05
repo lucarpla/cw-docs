@@ -2,13 +2,13 @@
 description: This section will guide you on how to integrate the CW online ordering to POS.
 ---
 
-# How To Integrate PushPOS with CloudWaitress
+# How To Integrate PushPOS with Rakoon
 
 Integrating online ordering with your POS system transforms manual system into an automated and efficient operation, making the entire process faster, more reliable, and, ultimately, more profitable.
 
 ### Steps:
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.Rakoon.com/login](https://admin.Rakoon.com/login)
 2. Go to Settings > Integrations > PushPOS
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 10.36.42 AM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -44,7 +44,7 @@ Integrating online ordering with your POS system transforms manual system into a
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support feature to get assistance managing this feature.
 {% endhint %}
 
 

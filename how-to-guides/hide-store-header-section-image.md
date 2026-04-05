@@ -1,5 +1,5 @@
 ---
-description: How to Hide the Store Header Section in your CloudWaitress store
+description: How to Hide the Store Header Section in your Rakoon store
 ---
 
 # Hide Store Header Section (image)
@@ -10,7 +10,7 @@ description: How to Hide the Store Header Section in your CloudWaitress store
 
 <figure><img src="../../.gitbook/assets/Remove Header Image (1).png" alt=""><figcaption><p>Before and after example of changing the header show setting</p></figcaption></figure>
 
-### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
+### 1. [Go to admin.Rakoon.com](https://admin.Rakoon.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
 
 ### 2. Click on Settings
 

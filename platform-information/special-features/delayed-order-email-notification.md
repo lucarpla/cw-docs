@@ -12,7 +12,7 @@ description: Step through guide for the new email notification feature for delay
 
 ### How to use
 
-### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP/orders)
+### 1. [Go to admin.Rakoon.com](https://admin.Rakoon.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP/orders)
 
 ### 2. Click on the order to delay
 
@@ -37,5 +37,5 @@ description: Step through guide for the new email notification feature for delay
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance setting up this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support feature to get assistance setting up this feature.
 {% endhint %}

@@ -49,5 +49,5 @@ Once saved:
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support to get assistance activating this feature.
 {% endhint %}

@@ -45,5 +45,5 @@ For additional tutorials and tips, visit our other support guides.
 <br>
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [support@Rakoon.com](mailto:support@Rakoon.com) or use the chat support feature to get assistance managing this feature.
 {% endhint %}
